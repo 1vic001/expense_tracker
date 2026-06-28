@@ -18,8 +18,7 @@ A command-line expense tracking application built with Python.
 
 ## How to run
 - python expense_tracker.py
-- Note:
-- Categories are user-defined 
+- Note: Categories are user-defined 
 
 ## Menu options
 | Option | Description |
