@@ -17,8 +17,8 @@ A command-line expense tracking application built with Python.
 - List comprehensions and generator expressions
 
 ## How to run
-python expense_tracker.py
-Note:
+-python expense_tracker.py
+-Note:
 -Categories are user-defined 
 
 ## Menu options
